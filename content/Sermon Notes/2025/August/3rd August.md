@@ -3,7 +3,7 @@ Speaker: Rev. Prince Ahinakwah Wilson
 title: Breaking The Syndrome Of Near Success For My Reign.
 draft: false
 tags:
-  - example-tage
+  - prayer-tag
 Date: 2025-08-03
 link: https://www.podbean.com/eas/pb-9cmaj-1931de0
 ---
