@@ -7,12 +7,17 @@ tags:
 Date: 2025-08-03
 link: https://www.podbean.com/eas/pb-9cmaj-1931de0
 ---
-📖Text(s): Numbers 20:6-12
 
->[!info]- Numbers 20:6-12 (NIV)
+
+>[!info]+ 📖Numbers 20:6-12
+>⁶Moses and Aaron went from the assembly to the entrance to the tent of meeting and fell facedown, and the glory of the Lord appeared to them. ⁷The Lord said to Moses, ⁸“Take the staff, and you and your brother Aaron gather the assembly together. Speak to that rock before their eyes and it will pour out its water. You will bring water out of the rock for the community so they and their livestock can drink.”
 >
+>⁹So Moses took the staff from the Lord’s presence, just as he commanded him. ¹⁰He and Aaron gathered the assembly together in front of the rock and Moses said to them, “Listen, you rebels, must we bring you water out of this rock?” ¹¹Then Moses raised his arm and struck the rock twice with his staff. Water gushed out, and the community and their livestock drank.
+>
+>¹²But the Lord said to Moses and Aaron, “Because you did not trust in me enough to honor me as holy in the sight of the Israelites, you will not bring this community into the land I give them.”
 
-Prayer:
+
+Prayers :
 🛐Lord, I will not fail...
 
 🛐My Father in Heaven, I break every cycle of near success, syndrome in my life, business, finances...
