@@ -7,9 +7,10 @@ tags:
 Date: 2025-08-03
 link: https://www.podbean.com/eas/pb-9cmaj-1931de0
 ---
-Theme: Breaking The Syndrome Of Near Success For My Reign.
-
 📖Text(s): Numbers 20:6-12
+
+>[!info]- Numbers 20:6-12 (NIV)
+>
 
 Prayer:
 🛐Lord, I will not fail...
