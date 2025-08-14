@@ -1,12 +1,11 @@
 ---
-Speaker: Rev. Prince Ahinakwah Wilson
-title: Breaking The Syndrome Of Near Success For My Reign.
+title: Day 12
 draft: false
 tags:
   - prayer
-Date: 2025-08-03
-link: https://www.podbean.com/eas/pb-9cmaj-1931de0
+Date: 2025-08-12
 ---
+Audio link 👉 https://www.podbean.com/eas/pb-9cmaj-1931de0
 
 
 >[!info]+ 📖Numbers 20:6-12
@@ -17,7 +16,6 @@ link: https://www.podbean.com/eas/pb-9cmaj-1931de0
 >¹²But the Lord said to Moses and Aaron, “Because you did not trust in me enough to honor me as holy in the sight of the Israelites, you will not bring this community into the land I give them.”
 
 
-Prayers :
 🛐Lord, I will not fail...
 
 🛐My Father in Heaven, I break every cycle of near success, syndrome in my life, business, finances...
