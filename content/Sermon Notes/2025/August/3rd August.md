@@ -1,6 +1,6 @@
 ---
 Speaker: Rev. Prince Ahinakwah Wilson
-🕯 Theme: Breaking The Syndrome Of Near Success For My Reign.
+title: Breaking The Syndrome Of Near Success For My Reign.
 draft: false
 tags:
   - example-tage
