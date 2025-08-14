@@ -1,6 +1,16 @@
 ---
-title: Welcome to Quartz
+title: Welcome to FaithHub
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is online notebook where prayer points and sermon notes from Deliverance AG are kept.
+
+>Romans 10:17 (AKJV)
+>¹⁷So then faith cometh by hearing, and hearing by the word of God.
+
+
+As you keep hearing the Word of God faith is stirred up within you.
+
+
+> [!note] Jude 1:20
+> ²⁰But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,
+
