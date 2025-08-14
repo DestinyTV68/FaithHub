@@ -1,12 +1,13 @@
 ---
 Speaker: Rev. Prince Ahinakwah Wilson
+🕯 Theme: Breaking The Syndrome Of Near Success For My Reign.
 draft: false
 tags:
   - example-tage
 Date: 2025-08-03
 link: https://www.podbean.com/eas/pb-9cmaj-1931de0
 ---
-🕯Theme: Breaking The Syndrome Of Near Success For My Reign.
+Theme: Breaking The Syndrome Of Near Success For My Reign.
 
 📖Text(s): Numbers 20:6-12
 
