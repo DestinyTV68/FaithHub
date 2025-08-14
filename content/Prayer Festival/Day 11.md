@@ -22,7 +22,7 @@ Strike all my enemies on the jaw;
 
 
 
-🛐Holy Ghost fire, quench every rage of the enemy!
+🛐Holy Ghost fire, quench every rage of the enemy.
 
 🛐Lord, use uncommon techniques to disgrace my enemy!
 
