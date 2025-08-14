@@ -1,5 +1,5 @@
 ---
-Site Name: Welcome to FaithHub
+Title: Welcome to FaithHub
 contact us: https://t.me/DestinyTV
 ---
 
