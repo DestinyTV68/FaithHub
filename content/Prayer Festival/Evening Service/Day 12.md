@@ -3,9 +3,13 @@ title: Day 12
 draft: false
 tags:
   - prayer
+  - evening
 Date: 2025-08-12
 ---
+[[Prayer Festival]]
 Audio link 👉 https://www.podbean.com/eas/pb-9cmaj-1931de0
+
+
 
 
 >[!info]+ 📖Numbers 20:6-12
@@ -31,3 +35,5 @@ Audio link 👉 https://www.podbean.com/eas/pb-9cmaj-1931de0
 🛐My Father in Heaven, Step into my situation and let there be a supernatural turnaround...
 
 🛐Oh Lord restore the years and the opportunities I have lost over the years...
+
+

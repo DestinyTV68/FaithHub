@@ -3,6 +3,7 @@ title: Day 11
 draft: false
 tags:
   - prayer
+  - evening
 Date: 2025-08-11
 ---
 Audio link 👉 https://www.podbean.com/eas/pb-3vn9g-1931cfa
@@ -26,4 +27,4 @@ Strike all my enemies on the jaw;
 
 🛐Lord, use uncommon techniques to disgrace my enemy!
 
-🛐Lord, according to your word in Psalm 3:7, slap my enemies. Every enemies who has pushed me to the wall, tonight, slap them Lord!!
+🛐Lord, according to your word in Psalm 3:7, slap my enemies. Every enemies who has pushed me to the wall, tonight, slap them Lord!
